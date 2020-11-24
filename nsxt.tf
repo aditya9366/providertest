@@ -8,5 +8,6 @@ terraform {
 }
 
 provider "nsxt" {
-  # Configuration options hello
+ host = "abc"
+ username = "qwe"
 }
